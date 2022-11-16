@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikesh Pyakurel</h1>
 <h3 align="center">A Passionate Frontend Developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikeshpyakurel&label=Profile%20views&color=0e75b6&style=flat" alt="nikeshpyakurel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikeshpyakurel" alt="nikeshpyakurel" /></a> </p>
