@@ -8,11 +8,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikeshpyakurel&label=Profile%20views&color=0e75b6&style=flat" alt="nikeshpyakurel" /> </p>
 
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **DEVOPS**
 
-- 👨‍💻 All of my projects are available at [https://nikeshpyakurel.netlify.app/](https://nikeshpyakurel.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nikeshpyakurel.com.np/](https://nikeshpyakurel.com.np/)
 
-- 💬 Ask me about **React,Next,Html,Css,Js,Bootstrap**
+- 💬 Ask me about **React,Node,AWS,AzureNest,Next,Html,Css,Js,Bootstrap**
 
 - 📫 How to reach me **nikeshpyakurel32@gmail.com**
 
