@@ -1,4 +1,4 @@
-[![MasterHead]((https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif))](https://nikeshpyakurel.com.np)
+[![MasterHead]](https://nikeshpyakurel.com.np)
 <h1 align="center">Hi 👋, I'm Nikesh Pyakurel</h1>
 <h3 align="center">A Passionate Frontend Developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
