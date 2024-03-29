@@ -1,4 +1,4 @@
-<img align="center" alt="master" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
+<img align="center" alt="master" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" style="width:100%">
 <h1 align="center">Hi 👋, I'm Nikesh Pyakurel</h1>
 <h4 align="center">https://nikeshpyakurel.com.np</h4>
 <h3 align="center">A Passionate FullStack Developer from Nepal</h3>
